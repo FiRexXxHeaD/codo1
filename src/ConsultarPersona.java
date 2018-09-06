@@ -16,7 +16,7 @@ public class ConsultarPersona {
         this.altura = t;
     }
 
-    public void Persona (){ //Constructor sin param.
+    public void Persona (){ //Constructor sin param...
         this.nombres = ""; // nombres vacio
         this.edad = 0; // edad cero
         this.ciudad =""; // ciudad vacia
